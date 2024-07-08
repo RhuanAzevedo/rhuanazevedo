@@ -20,7 +20,7 @@ Hello! My name is Rhuan, i am 18 years old.<br>
 
 <br>
 
-## Soft Skills:
+### Soft Skills:
 
 Comunicativo
 Trabalho em equipe
@@ -32,9 +32,6 @@ Autodidata
 
 <br>
 
-## Languages:
-
-Quanto aos idiomas, sou fluente em português, possuo inglês avançado e espanhol básico.
 
 ## Produção de Conteúdo:
 
@@ -42,6 +39,14 @@ No LinkedIn, publico vários materiais gratuitos (como a transcrição em portug
 No Medium, publico artigos sobre diversos assuntos (Gradiente Descendente, Classificação Hierárquica, Feature Selection, entre outros)
 
 No GitHub, publico vários projetos pessoais relacionados à ciência de dados e Machine Learning.
+<br>
+
+<br>
+
+## Languages:
+
+Quanto aos idiomas, sou fluente em português, possuo inglês avançado e espanhol básico.
+
 <br>
 
 Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou animado para compartilhar meu conhecimento e colaborar em projetos interessantes.
