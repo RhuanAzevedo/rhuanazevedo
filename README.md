@@ -2,7 +2,7 @@
 <br>
 ## Minha experiência:
 
-🎲 Atualmente, cursando uma formação externa em Análise de Dados. <br>
+🎲 Atualmente, cursando uma formação externa em Análise de Dados <br>
 📚 Estou graduando em Sistemas de Informação pelo IFMG (Instituto Federal de Minas Gerais) <br>
 📧 Quer entrar em contato comigo? Envie um e-mail para rhuan2022@gmail.com <br>
 <br>
@@ -12,28 +12,25 @@ Olá! Meu nome é Rhuan, tenho 21 anos e sou estudante de Sistemas de Informaç�
 <br>
 
 ### Hard Skills:
-
-
-Excel
-Git & Version Control
+• Excel <br>
+• Git & Version Control <br>
 <br>
 <br>
-
 ### Soft Skills:
-
-Comunicativo
-Trabalho em equipe
-Proatividade
-Aprendo muito rápido
-
+• Comunicativo <br>
+• Trabalho em equipe <br>
+• Proatividade <br>
+• Aprendo muito rápido <br>
 <br>
 <br>
 
 ## Projetos em que atuei:
- <br>
-## Produção de Conteúdo:
- <br>
+<br>
+<br>
 
+## Produção de Conteúdo:
+
+<br>
 <br>
 
 ## Idiomas:
