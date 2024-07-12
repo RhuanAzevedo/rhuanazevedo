@@ -18,7 +18,6 @@ Excel
 Git
 
 <br>
-<br>
 
 ### Soft Skills:
 
@@ -26,15 +25,14 @@ Comunicativo
 Trabalho em equipe
 Aprendo muito rápido
 Proatividade
-<br>
+
 <br>
 
 ## Projetos em que atuei:
-
+ <br>
 ## Produção de Conteúdo:
+ <br>
 
-
-<br>
 <br>
 
 ## Idiomas:
