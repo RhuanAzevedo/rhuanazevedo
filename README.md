@@ -4,48 +4,42 @@
 
 ## My Experience:
 
-🎲 Interested in the data area, specifically in data analysis. <br>
-📚 Currently majoring in Information Systems at IFMG (Instituto Federal de Minas Gerais) <br>
-📧 Want to contact me? Send an email to rhuan2022@gmail.com <br>
+🎲 Atualmente, cursando uma formação externa em Análise de Dados. <br>
+📚 Estou graduando em Sistemas de Informação pelo IFMG (Instituto Federal de Minas Gerais) <br>
+📧 Quer entrar em contato comigo? Envie um e-mail para rhuan2022@gmail.com <br>
 <br>
 
 ## About me:
 
-Hello! My name is Rhuan, i am 18 years old.<br>
+Olá! Meu nome é Rhuan, tenho 21 anos e sou estudante de Sistemas de Informação. Atualmente, estou focado na área de Análise de Dados e tenho como objetivo ingressar no mercado de trabalho nesse campo.<br>
 
 ### Hard Skills:
-
+Excel
+Git
 
 <br>
-
 <br>
 
 ### Soft Skills:
 
 Comunicativo
 Trabalho em equipe
-Proatividade
-Senso de liderança
 Aprendo muito rápido
-Autodidata
+Proatividade
+<br>
 <br>
 
-<br>
-
+## Projetos em que atuei:
 
 ## Produção de Conteúdo:
 
-No LinkedIn, publico vários materiais gratuitos (como a transcrição em português de um curso gratuito oferecido pela DeepLearning.AI) para ajudar iniciantes e avançados na área
-No Medium, publico artigos sobre diversos assuntos (Gradiente Descendente, Classificação Hierárquica, Feature Selection, entre outros)
-
-No GitHub, publico vários projetos pessoais relacionados à ciência de dados e Machine Learning.
-<br>
 
 <br>
+<br>
 
-## Languages:
+## Idiomas:
 
-Quanto aos idiomas, sou fluente em português, possuo inglês avançado e espanhol básico.
+Quanto aos idiomas, sou fluente em português e possuo inglês intermediário.
 
 <br>
 
