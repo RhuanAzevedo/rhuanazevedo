@@ -1,52 +1,29 @@
-# Olá! Bem vindo ao meu GitHub!
-<br>
+# Olá, meu nome é Rhuan!
 
-## Minha experiência:
-🎲 Atualmente, cursando uma formação externa em Análise de Dados <br>
-📚 Estou graduando em Sistemas de Informação pelo IFMG (Instituto Federal de Minas Gerais) <br>
-📧 Quer entrar em contato comigo? Envie um e-mail para rhuan2022@gmail.com <br>
-<br>
+🎓 Graduando em Sistemas de Informação - IFMG Campus Ouro Branco  
+💼 Estagiário na área de dados no setor de suprimentos da [Gerdau](https://www.gerdau.com/)
 
-## Sobre mim:
-Olá! Meu nome é Rhuan, tenho 21 anos e sou estudante de Sistemas de Informação. Atualmente, estou focado na área de Análise de Dados e tenho como objetivo ingressar no mercado de trabalho nesse campo.<br>
+## Sobre mim
 
-### Hard Skills:
-• Excel
+Sou estagiário na área de dados do setor de suprimentos da Gerdau, com participação ativa no desenvolvimento de projetos que atendem às demandas das pessoas que atuam nesse setor, sempre trabalhando de forma colaborativa em equipe e buscando entregar soluções eficientes.
 
-• Git & Version Control
-<br>
-<br>
+Tenho experiência com as seguintes tecnologias e ferramentas:
 
-### Soft Skills:
-• Comunicativo
+- Power Apps  
+- Power Automate  
+- SQL para consultas e manipulação de dados  
+- Power BI para análise e visualização de dados  
+- Metodologias ágeis (Scrum e Kanban)  
 
-• Trabalho em equipe
+Busco aprimorar meus conhecimentos em análise exploratória de dados e automação de processos, com foco especial em linguagens como Python.
 
-• Proatividade
-
-• Aprendo rápido
-<br>
-<br>
-
-## Projetos em que atuei:
-
-<br>
-<br>
-
-## Produção de Conteúdo:
-
-<br>
-<br>
-
-## Idiomas:
-
-Quanto aos idiomas, sou fluente em português e possuo inglês intermediário.
-
-<br>
-
-## Contato:
+## Contato
 
 <div>
-  <a href="https://instagram.com/rhuan_az" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rhuanazevedo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/rhuan_az" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/rhuanazevedo/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
 </div>
