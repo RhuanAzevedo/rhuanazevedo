@@ -1,6 +1,7 @@
 # Olá, meu nome é Rhuan!
 
 🎓 Graduando em Sistemas de Informação - IFMG Campus Ouro Branco <br>
+
 💼 Estagiário na área de dados no setor de suprimentos da [Gerdau](https://www.gerdau.com/)
 
 ## Sobre mim
